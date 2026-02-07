@@ -14,7 +14,7 @@ public with sharing class CTLocationTracingController {
 
         return [SELECT Id,Location__c,Person__c,Person__r.Name,Person__r.Health_Status__c, Person__r.Token__c,Visit_Date__c 
                 FROM Location_Tracing__c 
-                WHERE  Location__c =: locationId
+                WHERE  Location__c =: locationId AND Visit_Date__c = LAST_N_DAYS:30
                 ORDER BY Visit_Date__c DESC];
 
     }
