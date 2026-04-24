@@ -20,9 +20,9 @@ This application helps public health organizations:
 
 ## Technology Stack
 
-- **Platform**: Salesforce (Apex API v48.0)
+- **Platform**: Salesforce (Apex)
 - **Languages**: Apex, SOQL, XML
-- **Frontend**: Lightning Web Components, Flexipages
+- **Frontend**: Lightning Web Components(Aura), Flexipages
 - **Tools**: SFDX CLI, ESLint, Prettier, Jest
 
 ## Project Structure
@@ -95,7 +95,7 @@ sfdx force:source:deploy -p force-app/main/default -u your-org-alias
 
 ## License
 
-This project is provided as-is for educational purposes.
+This project is developed as a part of my salesforce learning Journey
 
 ## Author
 
