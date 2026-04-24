@@ -198,7 +198,7 @@ Location Status Updated Based on Red_Score Algorithm
 
 ## 💻 Technical Stack
 
-- **Platform:** Salesforce (Apex API v48.0)
+- **Platform:** Salesforce (Apex)
 - **Languages:** Apex, XML (metadata)
 - **Frontend:** Lightning Web Components (Aura), Flexipages
 - **Development Tools:** SFDX CLI, Prettier, ESLint
