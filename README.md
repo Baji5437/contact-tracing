@@ -295,13 +295,6 @@ This project demonstrates:
 - **Salesforce Best Practices:** Separation of concerns, scalable architecture
 - **Automation:** Scheduled jobs, batch processing, async operations
 
----
-
-## 📝 License
-
-This project is provided as-is for educational and reference purposes.
-
----
 
 ## 👨‍💻 Author
 
@@ -309,6 +302,3 @@ This project is provided as-is for educational and reference purposes.
 
 ---
 
-## 📞 Contact
-
-For questions or improvements, please reach out via GitHub issues or discussions.
