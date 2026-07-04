@@ -95,8 +95,16 @@ sfdx force:source:deploy -p force-app/main/default -u your-org-alias
 
 ## License
 
-This project is developed as a part of my salesforce learning Journey
+## My Contributions
 
-## Author
+- Designed and implemented Apex business logic
+- Developed Aura components
+- Built trigger framework
+- Implemented Batch Apex, Queueable Apex, and Scheduled Apex
+- Developed asynchronous workflows
+- Debugged and optimized application behavior
+- Integrated business logic with the Salesforce data model
 
-**Baji5437** - Salesforce Platform Development
+## Acknowledgements
+
+Project metadata and initial configuration were provided as reference material from a Senior resource. All development listed above represents my individual contributions.
